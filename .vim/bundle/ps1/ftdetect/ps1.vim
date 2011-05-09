@@ -1,0 +1,1 @@
+au BufNewFile,BufRead *.ps1  setf ps1
